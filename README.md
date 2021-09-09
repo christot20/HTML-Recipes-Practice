@@ -11,4 +11,4 @@ What's next:
 1. More practice with css (more lessons were added)
 2.Understanding of different tags of HTML not used in this project and their use-cases
 
-Live version of the project can be viewed here: https://christot20.github.io/HTML-Practice/
+Live version of the project can be viewed here: https://christot20.github.io/HTML-Recipes-Practice/
